@@ -63,7 +63,7 @@ This tutorial outlines the post-install configuration of the open-source help de
    - Within the Admin Panel, navigate to "Manage" and select "Help Topics".
    - Create help topics such as "Business Critical Outage", "Personal Computer Issues", "Equipment Request", and "Password Reset".
 
-Following these steps will help you set up the necessary configurations for a ticketing system, including roles, departments, teams, ticket creation permissions, agents, users, SLAs, and help topics.
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
