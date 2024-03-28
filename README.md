@@ -30,6 +30,40 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+1. **Configure Roles:**
+   - Navigate to the Admin Panel.
+   - Go to "Agents" and select "Roles".
+   - Create a "Supreme Admin" role.
+
+2. **Configure Departments:**
+   - In the Admin Panel, under "Agents", select "Departments".
+   - Create a "System Administrators" department.
+
+3. **Configure Teams:**
+   - Again in the Admin Panel under "Agents", choose "Teams".
+   - Create "Level I Support" and "Level II Support" teams.
+
+4. **Allow Anyone to Create Tickets:**
+   - In the Admin Panel, go to "Settings" and then "User Settings".
+   - Enable "Registration Required" to require registration and login to create tickets.
+
+5. **Configure Agents (Workers):**
+   - Within the Admin Panel, navigate to "Agents" and select "Add New".
+   - Add agents named "Jane" and "John".
+
+6. **Configure Users (Customers):**
+   - Access the Agent Panel.
+   - Under "Users", choose "Add New" to add customers named "Karen" and "Ken".
+
+7. **Configure SLA (Service Level Agreements):**
+   - In the Admin Panel, go to "Manage" and select "SLA".
+   - Create SLAs named "Sev-A" (1 hour, 24/7), "Sev-B" (4 hours, 24/7), and "Sev-C" (8 hours, business hours).
+
+8. **Configure Help Topics:**
+   - Within the Admin Panel, navigate to "Manage" and select "Help Topics".
+   - Create help topics such as "Business Critical Outage", "Personal Computer Issues", "Equipment Request", and "Password Reset".
+
+Following these steps will help you set up the necessary configurations for a ticketing system, including roles, departments, teams, ticket creation permissions, agents, users, SLAs, and help topics.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
