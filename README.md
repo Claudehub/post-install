@@ -31,15 +31,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 1. **Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">Roles:**
-   - Navigate to the <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">Admin Panel</a></h1>
+   - Navigate to the Admin Panel</a></h1>
    - Go to "Agents" and select "Roles".
    - Create a "Supreme Admin" role.
 
-2. **Configure Departments:**
+2. **Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Departments.html">Departments:**
    - In the Admin Panel, under "Agents", select "Departments".
    - Create a "System Administrators" department.
 
-3. **Configure Teams:**
+3. **Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Teams.html">Teams:**
    - Again in the Admin Panel under "Agents", choose "Teams".
    - Create "Level I Support" and "Level II Support" teams.
 
@@ -47,15 +47,15 @@ This tutorial outlines the post-install configuration of the open-source help de
    - In the Admin Panel, go to "Settings" and then "User Settings".
    - Enable "Registration Required" to require registration and login to create tickets.
 
-5. **Configure Agents (Workers):**
+5. **Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">Agents (Workers):**
    - Within the Admin Panel, navigate to "Agents" and select "Add New".
    - Add agents named "Jane" and "John".
 
-6. **Configure Users (Customers):**
+6. **Configure <a href="https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html">Users (Customers):**
    - Access the Agent Panel.
    - Under "Users", choose "Add New" to add customers named "Karen" and "Ken".
 
-7. **Configure SLA (Service Level Agreements):**
+7. **Configure <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">SLA (Service Level Agreements):**
    - In the Admin Panel, go to "Manage" and select "SLA".
    - Create SLAs named "Sev-A" (1 hour, 24/7), "Sev-B" (4 hours, 24/7), and "Sev-C" (8 hours, business hours).
 
