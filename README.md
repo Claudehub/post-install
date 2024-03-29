@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 1. **Configure Roles:**
-   - Navigate to the Admin Panel.
+   - Navigate to the Admin Panel https://docs.osticket.com/en/latest/Admin/Agents/Roles.html.
    - Go to "Agents" and select "Roles".
    - Create a "Supreme Admin" role.
 
